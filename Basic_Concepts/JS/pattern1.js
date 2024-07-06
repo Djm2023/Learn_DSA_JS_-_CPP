@@ -7,12 +7,10 @@
 // 5 5 5 5 5
 
 for (let row = 1; row <= 5; row++) {
-  let line = " ";
+  let line = "";
+  
   for (let col = 1; col <= 5; col++) {
-    line += row;
-    if (col < 5) {
-      line += " ";
-    }
+    line = line + row + " ";
   }
-  console.log(line);
+  console.log(line.trim());
 }
