@@ -1,4 +1,4 @@
-// Question 3 :  PRINT THE BELOW PATTERN
+// Question 4 :  PRINT THE BELOW PATTERN
 
 // 1
 // 1 2
